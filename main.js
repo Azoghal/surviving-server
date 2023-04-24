@@ -25,7 +25,7 @@ var generateRandomString = function(length) {
 };
 
 app.get('/',(req,res)=>{
-  var message = 'Spotify-Auth-Server for Surviving-Song ' + host;
+  var message = 'Spotify-Auth-Server for Surviving-Song ';
   res.send(message);
 })
 
