@@ -1,0 +1,5 @@
+runtime: nodejs16
+
+env_variables:
+  SPOTIFY_CLIENT_ID: cd8cc49fbb3c45a292f66e88a286be88
+  SPOTIFY_CLIENT_SECRET: 255243b9f5724491a4f8245b4d69cbb9
