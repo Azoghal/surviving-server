@@ -7,7 +7,7 @@ var cors = require('cors');
 var client_id = process.env.SPOTIFY_CLIENT_ID;
 var client_secret = process.env.SPOTIFY_CLIENT_SECRET;
 var redirect_uri = "https://gcp-test-379914.nw.r.appspot.com/callback"
-var app_url = "https://surviving-song.vercel.app/survivingSongs"; 
+var app_url = "https://surviving-song.vercel.app/"; 
 
 var stateKey = 'spotify_auth_state';
 
